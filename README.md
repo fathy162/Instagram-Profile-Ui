@@ -1,3 +1,3 @@
 # Instagram-Profile-Ui
 <br>
-<img src="res/drawable/screenshot.png" width="300" height="500">
+<img src="screenshots/screenshot.png" width="300" height="500" alt="App Screenshot">
