@@ -31,10 +31,8 @@ fun ProfileRate(
     Row(
         horizontalArrangement = Arrangement.SpaceAround,
         verticalAlignment = Alignment.CenterVertically,
-
         modifier = modifier
             .fillMaxWidth()
-
 
     ) {
         CircularImage(
@@ -73,10 +71,7 @@ fun CircularImage(
             .padding(3.dp)
             .clip(CircleShape)
     )
-
-
 }
-
 
 @Composable
 fun FollowDatils(
@@ -87,7 +82,6 @@ fun FollowDatils(
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         modifier = modifier.padding(top = 15.dp),
-
         ) {
         Text(
             text = numberOfRate,
